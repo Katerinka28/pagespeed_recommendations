@@ -23,7 +23,7 @@
   src: url(/static/css/Lato.woff2) format('woff2'),
        url(/static/css/Lato.woff) format('woff'),
        url(/static/css/Lato.eot) format('embedded-opentype'),
-       url(/static/css/Lato.ttf) format('truetype');
+       url(/static/css/Lato.ttf) format('truetype')
 }
 ```
 Шрифты рекомендую хранить в одной папке со стилями, они быстрее подключатся, без хождения по папочкам.
